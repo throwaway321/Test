@@ -3,3 +3,5 @@
 int main(){
   cout << "ABC" << endl;
 }
+
+ERROR
