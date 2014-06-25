@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-  cout << "ABC" << endl;
+  cout << "MASTER" << endl;
 }
 //Change
